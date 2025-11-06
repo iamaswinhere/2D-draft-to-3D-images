@@ -1,0 +1,5 @@
+{
+  "name": "2D Drafting to 3D Image Generator",
+  "description": "An AI-powered application that transforms 2D drafting images into 3D renderings from multiple points of view using the Gemini API.",
+  "requestFramePermissions": []
+}
